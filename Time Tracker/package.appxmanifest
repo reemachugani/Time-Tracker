@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="02a1a2ac-2420-4a0c-b702-45f6009e75e2" Version="1.0.0.0" Publisher="CN=Reema" />
+  <Properties>
+    <DisplayName>Time Tracker</DisplayName>
+    <PublisherDisplayName>Reema</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Time Tracker" Logo="images\clock.png" SmallLogo="images\small_clock.png" Description="Time Tracker" ForegroundText="light" BackgroundColor="#90D1D2">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splash_clock.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

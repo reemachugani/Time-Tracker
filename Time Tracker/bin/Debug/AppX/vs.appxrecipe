@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>REEMA-PC</Machine>
+    <WindowsUser>Reema</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BEA5AD1FB7C554089F481A389F5B5330EBFA559ABD22E43D2CED55CB173198C8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>02a1a2ac-2420-4a0c-b702-45f6009e75e2_1.0.0.0_neutral__kzctg30n90tpe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>02a1a2ac-2420-4a0c-b702-45f6009e75e2_kzctg30n90tpe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>02a1a2ac-2420-4a0c-b702-45f6009e75e2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Reema</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-11T02:43:20.763</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-11-14T21:07:07.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2012-12-13T04:36:44.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\trial\display.css">
+      <PackagePath>pages\trial\display.css</PackagePath>
+      <Modified>2012-12-09T16:08:28.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\clock.png">
+      <PackagePath>images\clock.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T11:49:54.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\small_clock.png">
+      <PackagePath>images\small_clock.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T11:51:16.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\splash_clock.png">
+      <PackagePath>images\splash_clock.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-18T11:57:34.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\hs.png">
+      <PackagePath>js\jscolor\hs.png</PackagePath>
+      <Modified>2012-12-11T00:43:30.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\hv.png">
+      <PackagePath>js\jscolor\hv.png</PackagePath>
+      <Modified>2012-12-11T00:43:30.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-11-14T21:07:07.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\jscolor.js">
+      <PackagePath>js\jscolor\jscolor.js</PackagePath>
+      <Modified>2012-12-11T00:43:30.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-11-14T21:07:08.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2012-12-13T04:44:09.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\trial\display.js">
+      <PackagePath>pages\trial\display.js</PackagePath>
+      <Modified>2012-12-09T16:08:28.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\arrow.gif">
+      <PackagePath>js\jscolor\arrow.gif</PackagePath>
+      <Modified>2012-12-11T00:43:30.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\cross.gif">
+      <PackagePath>js\jscolor\cross.gif</PackagePath>
+      <Modified>2012-12-11T00:43:30.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\js\jscolor\demo.html">
+      <PackagePath>js\jscolor\demo.html</PackagePath>
+      <Modified>2012-12-11T00:43:30.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2012-12-13T04:45:52.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-11-18T11:58:49.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\pages\trial\display.html">
+      <PackagePath>pages\trial\display.html</PackagePath>
+      <Modified>2012-12-09T16:08:28.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-11T02:43:20.635</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\">
+      <Name>Microsoft.WinJS.1.0.RC</Name>
+      <Version>1.0.8377.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0.RC, MinVersion=1.0.8377.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0.RC\1.0\Microsoft.WinJS.1.0.RC.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

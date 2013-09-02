@@ -1,0 +1,13 @@
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bin\Debug\resources.pri
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bin\Debug\AppxManifest.xml
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bin\Debug\Time Tracker.build.appxrecipe
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\priconfig.xml
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\layout.resfiles
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\resources.resfiles
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\pri.resfiles
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\LanguageQualifiers.txt
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\ProjectArchitectures.txt
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\priconfig.xml.intermediate
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\layout.resfiles.intermediate
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\resources.resfiles.intermediate
+C:\Users\Reema\Dropbox\PROJECTS\Win8_TT\Time Tracker\Time Tracker\bld\Debug\pri.resfiles.intermediate

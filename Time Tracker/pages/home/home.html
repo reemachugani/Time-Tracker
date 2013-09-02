@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+    
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0.RC/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0.RC/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0.RC/js/ui.js"></script>
+    
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/home/home.css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/jscolor/jscolor.js"></script>
+    <script src="/pages/home/home.js"></script>
+    
+</head>
+<body>
+    <!-- The content that will be loaded and displayed. -->
+    <div class="fragment homepage">
+        <header aria-label="Header content" role="banner">
+            <button class="win-backbutton" aria-label="Back" disabled></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Time Tracker</span> &nbsp;
+                <span style="font-size: large;">Manage your time well!</span>
+            </h1>
+            
+        </header>
+        <section aria-label="Main content" role="main">              
+            
+            <!-- COLUMN 1 : task listing for current and finished tasks -->
+            <div class="taskListing">
+                <br /><br />
+                <span style="font-size:large">New Task :</span> <input type="text" value="" name="task" id="task" size="15" />
+                &nbsp;
+                <select name="category" id="Category">
+                    <option value="Undefined">Choose Category</option>
+                    <option value="Add_New" id="addNew">+ Add New</option>
+                    <!--<option value="Projects">Projects</option>
+                    <option value="Food">Food</option>
+                    <option value="Meeting">Meeting</option>
+                    <option value="Travelling">Travelling</option>
+                    <option value="Reading">Reading</option>
+                    <option value="Browsing">Browsing</option>-->                
+                </select>
+                &nbsp;                      
+                <input type="button" value="Start" id="btnStart" />
+
+                <!-- New Category Flyout. -->
+                <div id="newCategoryFlyout" data-win-control="WinJS.UI.Flyout" aria-label="{Confirm new category}">
+                    <div>Category : <input type="text" value="" id="newCategory" size="4"/> &nbsp;
+                    <!--<input class="color" id="color" value="66FF00"/>--></div>
+                    <button id="btnAdd" disabled>Add</button>
+                </div>
+
+                <hr />
+                <br />
+
+                <!-- task list -->
+                <div id="taskList"></div>
+
+            </div> <!-- column 1 ends -->
+
+            <!-- COLUMN 2 : tasks breakdown as per category -->
+            <div class="breakdown" aria-label="Main content">
+                <br /><br />
+                <h2>Time breakdown</h2>
+                <br />
+                <div id="categoryTime"></div>
+            </div> <!-- column 2 ends -->
+
+        </section>
+    </div>
+    
+</body>
+</html>
